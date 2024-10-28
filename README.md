@@ -2,6 +2,6 @@
 
 * **Clouds**: [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Azure](https://azure.microsoft.com), [vCenter](https://www.vmware.com/products/cloud-infrastructure/vcenter)
 * **Languages**: [Python](https://www.python.org/), [Golang](), [Bash](), [Javascript](), [Typescript](), [HTML/CSS]()
-* **Frameworks**: Django, ReactJs, Scrapy, Flask, Kubernetes
-* **DevOps IaC**: Terraform, Pulumi, SaltStack, Chef, Ansible
+* **Frameworks**: [Django](), [ReactJs](), [Scrapy](), [Flask](), [Kubernetes]()
+* **DevOps IaC**: [Terraform](), [Pulumi](), [SaltStack](), [Chef](), [Ansible]()
 
