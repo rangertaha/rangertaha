@@ -4,4 +4,4 @@
 * **Languages**: [Python](https://www.python.org/), [Golang](), [Bash](), [Javascript](), [Typescript](), [HTML/CSS]()
 * **Frameworks**: [Django](), [ReactJs](), [Scrapy](), [Flask](), [Kubernetes]()
 * **DevOps IaC**: [Terraform](), [Pulumi](), [SaltStack](), [Chef](), [Ansible]()
-
+* * **OS**: [Linux](), [MacOS]()
