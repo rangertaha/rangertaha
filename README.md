@@ -1,4 +1,4 @@
-👋 I’m Rangertaha, a cloud & application software engineer with over 20 years of experience programming web development, backend systems, cloud-native applications, cybersecurity tools, and data analytics platforms. 🌱 Currently trying to figure out what to dive into next. I am fascinated by systems of systems architectures, orchestration systems, and intelligence-gathering systems and tools.
+👋 I’m Rangertaha, a cloud & application software engineer with over 20 years of experience programming web development, backend systems, cloud-native applications, cybersecurity tools, and data analytics platforms. 🌱 Currently trying to figure out new tech stacks to dive into and projects to work on. I am fascinated by systems of systems architectures, orchestration systems, and intelligence-gathering systems and tools.
 
 * **OS**: [Linux](), [MacOS]()
 * **Clouds**: [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Azure](https://azure.microsoft.com), [vCenter](https://www.vmware.com/products/cloud-infrastructure/vcenter)
