@@ -1,4 +1,4 @@
-👋 I’m Rangertaha, a cloud & application software engineer programming web development, backend systems, cloud-native applications, cybersecurity tools, and data analytics platforms.  I am fascinated by systems of systems architectures, orchestration systems, and intelligence-gathering systems and tools. Currently exploring ideas for some new projects and learning Rust.
+👋 I’m Rangertaha, a cloud & application software engineer building web apps, backend systems, cloud-native applications, cybersecurity tools, and data analytics platforms.  I am fascinated by systems of systems architectures, orchestration systems, and intelligence-gathering systems and tools. I am exploring ideas for some new projects and learning Rust.
 
 * **OS**: [Linux]()
 * **Clouds**: [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Azure](https://azure.microsoft.com), [vCenter](https://www.vmware.com/products/cloud-infrastructure/vcenter)
