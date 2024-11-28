@@ -9,10 +9,6 @@
 * **Data Science**: [NLP](https://www.nltk.org/), [LLM](https://en.wikipedia.org/wiki/Large_language_model), [RAG](), [ML](), [AI](), [GIS](), [Pandas](https://pandas.pydata.org/), [Jupyter Notebooks](https://[jupyter](https://jupyter.org/).org/), [TensorFlow](https://www.tensorflow.org/),  [Algo Trading](), [Airflow]() [Hadoop Ecosystem]()
 * **DevOps IaC**: [Terraform](), [Pulumi](), [SaltStack](), [Chef](), [Ansible](), [Kubernetes](), [Nomad](), [HashiCorp Tech Stack](), [ELK Stack](), [TICK Stack](), [Serverless](), [Microservices](), [Cloud Native]()...
 
-1
-2
 
-	
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rangertaha&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rangertaha&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rangertaha&count_private=true&theme=tokyonight&showicons=true)]()
