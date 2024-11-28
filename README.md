@@ -1,4 +1,3 @@
-![counter](https://enx5lktfxdsoaco.m.pipedream.net)
 
 👋 I’m Rangertaha, a cloud & application software engineer building web apps, backend systems, cloud-native applications, cybersecurity tools, OSINT tools, and data analytics platforms.  I am fascinated by systems of systems architectures, orchestration systems, and intelligence-gathering systems and tools. I am exploring ideas for some new projects and slowly learning Rust.
 
