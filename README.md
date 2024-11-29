@@ -15,5 +15,5 @@
 </a>
 
 
-* **Latest Interests**: [LLM](https://en.wikipedia.org/wiki/Large_language_model), [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation), [ML](https://en.wikipedia.org/wiki/Machine_learning), [AI](https://en.wikipedia.org/wiki/Artificial_intelligence),[ANN](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)), [Rust](https://www.rust-lang.org/), [go-plugin](https://github.com/hashicorp/go-plugin), [Nomad Plugins](https://developer.hashicorp.com/nomad/docs/concepts/plugins)
+* **Latest Interests**: [LLM](https://en.wikipedia.org/wiki/Large_language_model), [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation), [ML](https://en.wikipedia.org/wiki/Machine_learning), [AI](https://en.wikipedia.org/wiki/Artificial_intelligence), [ANN](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)), [Rust](https://www.rust-lang.org/), [go-plugin](https://github.com/hashicorp/go-plugin), [Nomad Plugins](https://developer.hashicorp.com/nomad/docs/concepts/plugins)
 
