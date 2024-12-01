@@ -9,9 +9,9 @@
 * **Data Science**: [NLP](https://www.nltk.org/), [GIS](), [Pandas](https://pandas.pydata.org/), [Jupyter Notebooks](https://[jupyter](https://jupyter.org/).org/), [TensorFlow](https://www.tensorflow.org/),  [Algo Trading](), [Airflow]() [Hadoop Ecosystem]()
 * **DevOps IaC**: [Terraform](), [Pulumi](), [SaltStack](), [Chef](), [Ansible](), [Kubernetes](), [Nomad](), [HashiCorp Tech Stack](), [ELK Stack](), [TICK Stack](), [Serverless](), [Microservices](), [Cloud Native]()...
 
-<a href="https://github.com/rangertaha/github-stats">
-<img src="https://github.com/rangertaha/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/rangertaha/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/rangertaha/rangertaha">
+<img src="https://github.com/rangertaha/rangertaha/stats/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/rangertaha/rangertaha/stats/languages.svg#gh-dark-mode-only" />
 </a>
 
 
