@@ -10,7 +10,7 @@
 * **DevOps IaC**: [Terraform](), [Pulumi](), [SaltStack](), [Chef](), [Ansible](), [Kubernetes](), [Nomad](), [HashiCorp Tech Stack](), [ELK Stack](), [TICK Stack](), [Serverless](), [Microservices](), [Cloud Native]()...
 
 <a href="https://github.com/rangertaha/rangertaha">
-<img src="https://github.com/rangertaha/rangertaha/blob/main/stats/overview.svg" />
+<img src="https://github.com/rangertaha/rangertaha/blob/main/stats/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/rangertaha/rangertaha/blob/main/stats/languages.svg#gh-dark-mode-only" />
 </a>
 

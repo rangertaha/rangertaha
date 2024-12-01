@@ -9,7 +9,7 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: transparent;
+  fill: white;
   stroke: rgb(225, 228, 232);
   stroke-width: 1px;
   rx: 6px;
@@ -17,7 +17,7 @@ svg {
 }
 
 #gh-dark-mode-only:target #background {
-  fill: transparent;
+  fill: #0d1117;
   stroke-width: 0.5px;
 }
 
