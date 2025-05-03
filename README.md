@@ -1,5 +1,5 @@
 
-👋 I’m Rangertaha, a cloud & application software engineer building web apps, backend systems, cloud-native applications, cybersecurity tools, OSINT tools, and data analytics platforms.  I am fascinated by AI-based systems of systems architectures, orchestration systems, and intelligence-gathering systems and tools. My tech stack:
+👋 I’m Rangertaha, a full-stack software architect building web apps, backend systems, cloud-native applications, cybersecurity tools, OSINT tools,data science pipelines, and data analytics platforms.  I am fascinated by AI-based systems of systems architectures, orchestration systems, and intelligence-gathering systems and tools. My tech stack:
 
 * **OS**: [Linux]()
 * **Clouds**: [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Azure](https://azure.microsoft.com), [vCenter](https://www.vmware.com/products/cloud-infrastructure/vcenter)
