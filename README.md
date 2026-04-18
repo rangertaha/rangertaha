@@ -1,6 +1,6 @@
 ## Hi, I'm Rangertaha
 
-[Builder of Systems](https://rangertaha.github.io/rangertaha/), INTJ, Principal Cloud-Native Engineer, Systems Architect...
+Builder of Systems, INTJ, Principal Cloud-Native Engineer, Systems Architect...
 
 
 
