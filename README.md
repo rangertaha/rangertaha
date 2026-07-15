@@ -1,7 +1,6 @@
 ## Hi, I'm Rangertaha
 
-Builder of Systems, INTJ, Principal Cloud-Native Architect, Systems Architect...
-
+Builder of intelligent systems, Principal Cloud-Native Architect, and Systems Architect specializing in distributed systems, DevOps, Cybersecurity, observability, platform engineering, and AI-powered automation.
 
 
 <a href="https://github.com/rangertaha/rangertaha">
